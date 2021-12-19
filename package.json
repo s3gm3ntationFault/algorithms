@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Animated algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3gm3ntationFault/algorithms.git"
+  },
+  "keywords": [
+    "nodejs",
+    "algorithms",
+    "animation"
+  ],
+  "author": "Jordi Marimon Illana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s3gm3ntationFault/algorithms/issues"
+  },
+  "homepage": "https://github.com/s3gm3ntationFault/algorithms#readme"
+}
